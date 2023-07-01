@@ -10,3 +10,8 @@
 
 5. Take a picture every day.
 
+<<<<<<< HEAD
+=======
+   ![75 Hard logo](https://github.com/PaulEdworthy/75-hard/assets/20152343/6ec84e2f-d37b-4397-a774-237920e3f39f)
+
+>>>>>>> bcde0197ead3dfbc9350fc0c9cdd63f7b1c70d27
