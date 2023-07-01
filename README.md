@@ -9,3 +9,4 @@
 4. Read 10 pages of a personal development book. No audiobooks.
 
 5. Take a picture every day.
+
