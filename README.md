@@ -9,3 +9,5 @@
 4. Read 10 pages of a personal development book. No audiobooks.
 
 5. Take a picture every day.
+
+   ![75 Hard logo](https://github.com/PaulEdworthy/75-hard/assets/20152343/b21d61fb-c56c-4f90-8a35-4a893d518044)
